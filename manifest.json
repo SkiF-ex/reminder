@@ -7,8 +7,7 @@
         "storage",
         "activeTab",
         "tabs",
-        "scripting",
-        "nativeMessaging"
+        "scripting"
     ],
     "host_permissions": [
         "<all_urls>"
